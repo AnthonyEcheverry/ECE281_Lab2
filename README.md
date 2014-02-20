@@ -42,6 +42,6 @@ The test bench for this lab was one of the last things I worked on. I realize th
 
 #Design and Attempted Debugging
 
-This project was an absolute nightmare for me when it came to debugging.  I ONLY uploaded my final .vhd file that I put the most work into, but started with many other files that did not end up working and got too complicated for me to try and fix. Instead I started over with a new file, which still didn't work in the end.  
+This project was an absolute nightmare for me when it came to debugging.  I ONLY uploaded my final .vhd file that I put the most work into, but started with many other files that did not end up working and got too complicated for me to try and fix. Instead I started over with a new file, which still didn't work in the end.  When I talked to Dr. Kneeble, he said that I was not correctly instantiating my bit files that I call in the component portion of the code.  I went back to my room to try and figure out what to fix but I could not figure it out.  
 
-The purpose of this project was to create a 4 bit adder which could subtract (by using 2's comp), implement a carry, and tell the user when overflow is generated.  Sounds simple enough, but a lot of tiny errors in my code kept me from being able to complete it.
+The purpose of this project was to create a 4 bit adder which could subtract (by using 2's comp), implement a carry, and tell the user when overflow is generated.  Sounds simple enough, but a lot of tiny errors in my code kept me from being able to complete it.  In the future I realize that I will need to start A LOT sooner than I previously did and go in for EI more often.  
